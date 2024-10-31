@@ -10,10 +10,21 @@
 				},
 				"entities": {
 					"kuUseXP": {
-						"components": {
-							"locations": [
-								"https://raw.githubusercontent.com/Kaeon-ACE/KU-Use-XP/main/KU%20Use%20XP/1%20-%20Wonders/1%20-%20Libs/1%20-%20KU%20Use%20XP/kuUseXP.js"
-							]
+						"entities": {
+							"kuUseXP1": {
+								"components": {
+									"locations": [
+										"https://raw.githubusercontent.com/Kaeon-ACE/KU-Use-XP/main/KU%20Use%20XP/1%20-%20Wonders/1%20-%20Libs/1%20-%20KU%20Use%20XP/1/kuUseXP1.js"
+									]
+								}
+							},
+							"kuUseXP2": {
+								"components": {
+									"locations": [
+										"https://raw.githubusercontent.com/Kaeon-ACE/KU-Use-XP/main/KU%20Use%20XP/1%20-%20Wonders/1%20-%20Libs/1%20-%20KU%20Use%20XP/2/kuUseXP2.js"
+									]
+								}
+							}
 						}
 					}
 				}
