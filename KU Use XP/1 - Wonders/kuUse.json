@@ -1,0 +1,23 @@
+{
+	"use": {
+		"entities": {
+			"kuUseXP": {
+				"components": {
+					"META": {
+						"environment": "javascript",
+						"type": "library"
+					}
+				},
+				"entities": {
+					"kuUseXP": {
+						"components": {
+							"locations": [
+								"https://raw.githubusercontent.com/Kaeon-ACE/KU-Use-XP/main/KU%20Use%20XP/1%20-%20Wonders/1%20-%20Libs/1%20-%20KU%20Use%20XP/kuUseXP.js"
+							]
+						}
+					}
+				}
+			}
+		}
+	}
+}
